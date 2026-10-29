@@ -7011,10 +7011,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nodemailer@npm:^6.9.9":
-  version: 6.10.0
-  resolution: "nodemailer@npm:6.10.0"
-  checksum: 10c0/39fd35d65b021b94c968eeac82a66dd843021b6ba53c659d01b1dd4cda73b6a2f96e20facfe500efa4b8d3f1cb23df10245c6c86b2bde5f806691ed17ce87826
+"nodemailer@npm:^10.1.4":
+  version: 10.1.4
+  resolution: "nodemailer@npm:10.1.4"
+  checksum: 10c0/fa60d4757c876b88ded425530b0f9c041bf793f7369fa673d3eb6df24f47ea67128566bca10ed8b81ecca17ec682d7491bcc032d328e6ca878d11c91472ab3d2
   languageName: node
   linkType: hard
 
@@ -9403,7 +9403,7 @@ __metadata:
     murmurhash3js: "npm:^3.0.1"
     mustache: "npm:^4.1.0"
     nock: "npm:13.5.6"
-    nodemailer: "npm:^6.9.9"
+    nodemailer: "npm:^10.1.4"
     openapi-enforcer: "npm:1.23.0"
     openapi-types: "npm:^12.1.3"
     owasp-password-strength-test: "npm:^1.3.0"
